@@ -6,11 +6,15 @@ echo 地图风格
 echo 常规 normal
 echo 清新蓝 light
 echo 黑夜 dark
+echo 红色警戒 redalert
+echo 精简 googlelite
 echo 自然绿 grassgreen
 echo 午夜蓝 midnight
 echo 浪漫粉 pink
+echo 青春绿 darkgreen
 echo 清新蓝绿 bluish
 echo 高端灰 grayscale
+echo 强边界 hardedge
 set style=midnight
 set a=120.86441707191187
 set b=31.87829317767047
